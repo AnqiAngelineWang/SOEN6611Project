@@ -1,0 +1,5 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;COLLECTIONS-747;13284335;MultiKey.getKeys class cast exception;ggregory;wlaan;Major;Resolved;Fixed;10/Feb/20 14:49;17/Feb/20 09:00;
+Bug;COLLECTIONS-697;13188930;JavaDoc for FixedSizeList should warn that modifying underlying list is still allowed and is not prevented;;george.ranjan@gmail.com;Major;Resolved;Fixed;02/Oct/18 17:33;11/Jan/20 23:54;
+Bug;COLLECTIONS-727;13251866;A potential misleading comment;;xz-x;Major;Closed;Fixed;20/Aug/19 15:20;23/Aug/19 20:17;
+Bug;COLLECTIONS-741;13273690;Signature of IteratorUtils.objectGraphIterator is wrong;;hanspeterstoerr;Minor;Open;;10/Dec/19 19:30;10/Dec/19 20:12;

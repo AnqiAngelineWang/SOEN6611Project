@@ -1,0 +1,6 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;COLLECTIONS-721;13239832;functors.InvokerTransformer backward incompatibility bug;;lingchao;Major;Closed;Not A Bug;16/Jun/19 21:48;24/Jul/19 18:57;
+Bug;COLLECTIONS-710;13212660;"NullPointerExceptions in CompositeCollection, CompositeSet, and CompositeMap";;sychelsea;Major;Resolved;Fixed;29/Jan/19 22:00;09/Feb/19 23:01;
+Bug;COLLECTIONS-695;13184962;PatriciaTrie.subMap() does not return the expected outcome;;kwin;Major;Resolved;Invalid;13/Sep/18 17:29;09/Oct/18 10:05;
+Bug;COLLECTIONS-709;13210557;MultiSet.Entry::getCount() isn't 0 after removing the last element;;CasualSuperman;Minor;Closed;Fixed;19/Jan/19 23:30;20/Jan/19 17:41;
+Bug;COLLECTIONS-689;13172571;Link to Javadoc API broken;;Richard.Walker@ands.org.au;Minor;Closed;Fixed;17/Jul/18 06:51;18/Jul/18 23:53;

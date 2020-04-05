@@ -1,0 +1,19 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;COLLECTIONS-657;13103306;"""union"" method is resulting in data loss";;kibertoad;Critical;Closed;Invalid;19/Sep/17 18:12;19/Sep/17 18:38;
+Bug;COLLECTIONS-722;13241952;IteratorUtils.chainedIterator() Performance Degrades;;dragonmacher;Major;Open;;27/Jun/19 14:10;01/Nov/19 22:17;
+Bug;COLLECTIONS-721;13239832;functors.InvokerTransformer backward incompatibility bug;;lingchao;Major;Closed;Not A Bug;16/Jun/19 21:48;24/Jul/19 18:57;
+Bug;COLLECTIONS-717;13234318;ObjectInputFilter REJECTED: class org.apache.commons.collections.functors.InstantiateFactory;;kirubakaran;Major;Open;;20/May/19 13:31;05/Jul/19 15:24;
+Bug;COLLECTIONS-673;13135817;ListUtils.partition potential integer overflow;;jmark;Major;Resolved;Fixed;02/Feb/18 17:18;12/Jun/18 21:45;
+Bug;COLLECTIONS-661;13106660;Intermittent test failures in Windows for HashSetValuedHashMap;kinow;kinow;Major;Resolved;Fixed;03/Oct/17 09:54;12/Oct/17 06:31;
+Bug;COLLECTIONS-586;12958267;PatriciaTrie prefixMap clear throws NullPointerException;;shailender.bathula@tvnz.co.nz;Major;Closed;Fixed;12/Apr/16 21:59;18/Jul/17 18:56;
+Bug;COLLECTIONS-595;13007463;ListOrderedSet remove();;maleven;Major;Resolved;Not A Bug;25/Sep/16 21:08;24/May/17 09:52;
+Bug;COLLECTIONS-584;12921732;Deserializing an AbstractHashedMap expands the hash table exponentially;;orium;Major;Closed;Invalid;14/Dec/15 18:08;14/Dec/15 22:49;
+Bug;COLLECTIONS-604;13075163;More uniform safe-null methods in CollectionUtils;kinow;kinow;Minor;Open;;26/May/17 12:41;12/Nov/19 08:27;
+Bug;COLLECTIONS-709;13210557;MultiSet.Entry::getCount() isn't 0 after removing the last element;;CasualSuperman;Minor;Closed;Fixed;19/Jan/19 23:30;20/Jan/19 17:41;
+Bug;COLLECTIONS-660;13106652;Uncomment test in AbstractMapTest regarding LRUMap equals;kinow;kinow;Minor;Resolved;Fixed;03/Oct/17 09:41;04/Oct/17 04:44;
+Bug;COLLECTIONS-656;13101595;Fix site build on Java 8;kinow;kinow;Minor;Resolved;Fixed;12/Sep/17 10:42;13/Sep/17 07:52;
+Bug;COLLECTIONS-592;12980680;Deletions/insertions get lost in the ReplacementsFinder if they're at the end of the compared sequences;;Unda;Minor;Open;;19/Jun/16 22:19;20/Jun/16 07:31;
+Bug;COLLECTIONS-554;12775406;NullPointerException in CollectionUtils.partition;;mjkim0324;Minor;Closed;Invalid;16/Feb/15 16:33;27/Nov/15 21:47;
+Bug;COLLECTIONS-555;12775413;Undefined NullPointerException in TreeBag.java;;mjkim0324;Minor;Closed;Fixed;16/Feb/15 17:03;27/Nov/15 21:11;
+Bug;COLLECTIONS-597;13013873;Correction of Javadoc for org.apache.commons.collections4.functors.CatchAndRethrowClosure;ggregory;sadguten;Trivial;Resolved;Fixed;20/Oct/16 13:47;21/Oct/16 05:53;
+Bug;COLLECTIONS-544;12766767;Undocumented performance issue in the retainAll method in CollectionUtils ;;oswaldo_o;Trivial;Closed;Fixed;12/Jan/15 05:55;27/Nov/15 21:11;
