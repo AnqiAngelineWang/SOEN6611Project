@@ -1,0 +1,4 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;CONFIGURATION-733;13207957;Attribute value cannot delimit to list;;hchen00;Major;Open;;07/Jan/19 07:21;19/Jul/19 14:16;
+Bug;CONFIGURATION-737;13213857;JupIOFactory and trimming of newline & carriage return characters;;chkch;Major;Open;;05/Feb/19 09:52;05/Feb/19 09:53;
+Bug;CONFIGURATION-732;13198627;Fix CI build break after upgraded from Java 7 to 8;;HCOONa;Major;Resolved;Fixed;15/Nov/18 13:22;15/Nov/18 15:08;

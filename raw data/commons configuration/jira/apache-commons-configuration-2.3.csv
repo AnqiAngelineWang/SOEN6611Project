@@ -1,0 +1,8 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;CONFIGURATION-715;13186084;PropertiesConfiguration should not trim whitespace from the property value;;Frettman;Major;Resolved;Fixed;19/Sep/18 15:37;16/Jun/19 10:12;
+Bug;CONFIGURATION-732;13198627;Fix CI build break after upgraded from Java 7 to 8;;HCOONa;Major;Resolved;Fixed;15/Nov/18 13:22;15/Nov/18 15:08;
+Bug;CONFIGURATION-716;13186301;PropertiesConfiguration: Escape sequence handling different from Properties;;Frettman;Major;Resolved;Fixed;20/Sep/18 10:38;05/Oct/18 20:06;
+Bug;CONFIGURATION-719;13187265;7A;;Riza;Major;Resolved;Fixed;25/Sep/18 11:27;25/Sep/18 11:34;
+Bug;CONFIGURATION-714;13185849;PropertiesConfiguration builder.getConfiguration fails;;jpsacha;Major;Closed;Not A Bug;18/Sep/18 16:37;19/Sep/18 12:38;
+Bug;CONFIGURATION-712;13180555;FileHandlerReloadingDetector Does Not Correctly Initialize File Last Modified;;rllndhbb;Major;Resolved;Fixed;22/Aug/18 20:56;16/Sep/18 20:24;
+Bug;CONFIGURATION-729;13194817;"inconsistency in ""Quick start guide""";;M0;Trivial;Open;;29/Oct/18 11:56;16/Jun/19 10:12;

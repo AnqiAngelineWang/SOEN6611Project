@@ -1,0 +1,7 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;CONFIGURATION-769;13268080;commons configuration addProperty method replaces < > with &lt &gt;;djha10;Critical;Open;;13/Nov/19 16:28;13/Nov/19 16:28;
+Bug;CONFIGURATION-786;13292569;ReloadingCombinedConfigurationBuilder needs to clear the reloadingController on resetParameters();;dcitron99;Major;Open;;18/Mar/20 21:29;18/Mar/20 22:13;
+Bug;CONFIGURATION-764;13261254;Default date lookup can not work for some specific format;;ningzhangnj;Major;Open;;09/Oct/19 07:26;11/Oct/19 05:15;
+Bug;CONFIGURATION-781;13288958;The conversion handler is not inherited by children;;heijerm@xs4all.nl;Minor;Open;;02/Mar/20 17:26;02/Mar/20 17:26;
+Bug;CONFIGURATION-774;13274955;"sample code cannot be compiled in ""properties file"" chapter of user guide";;edwin.ngai;Minor;Open;;17/Dec/19 09:56;18/Dec/19 19:54;
+Bug;CONFIGURATION-773;13271572;User Guide > Properties files > Saving;;dan.dragut;Minor;Resolved;Fixed;01/Dec/19 19:54;01/Dec/19 20:46;
