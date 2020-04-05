@@ -1,0 +1,6 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;EMAIL-159;12904810;Parse exception when parsing the email content;sgoeschl;kushal.j1987;Critical;Resolved;Invalid;14/Oct/15 10:17;14/Jan/16 20:01;
+Bug;EMAIL-167;13045652;DataSourceClassPathResolver doesn't close InputStream when resolving resources;;lburja;Major;Resolved;Fixed;23/Feb/17 15:37;16/Mar/17 00:38;
+Bug;EMAIL-164;12958823;Setting Alias using setFrom of HtmlEmail is not working when calling from Scala;sgoeschl;praxnet;Major;Resolved;Incomplete;14/Apr/16 12:14;02/Jan/17 22:31;
+Bug;EMAIL-158;12903897;Seeing EHLO option warnings;sgoeschl;hardikvohra;Major;Resolved;Cannot Reproduce;09/Oct/15 20:54;14/Jan/16 20:02;
+Bug;EMAIL-157;12875281;Sending an email from a Java TimerTask object doesn't work;;leamassiot;Major;Resolved;Cannot Reproduce;17/Sep/15 11:16;07/Dec/15 21:19;

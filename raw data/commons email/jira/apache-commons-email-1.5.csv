@@ -1,0 +1,6 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;EMAIL-186;13226553;Commons Email does not provide automatic module name;;triceo85;Critical;Resolved;Fixed;07/Apr/19 08:27;12/Apr/19 15:56;
+Bug;EMAIL-184;13213351;Undescribed NullPointerException in Email.setFrom method;;javatesting;Major;Open;;01/Feb/19 14:58;27/Jul/19 13:55;
+Bug;EMAIL-185;13215959;"[Email] Email.setMailSession doesn't consider ""mail.smtps"" (note last 's') properties";;Gamby1980;Major;Open;;15/Feb/19 11:08;16/Feb/19 19:54;
+Bug;EMAIL-178;13153747;setFrom no longer working;;akhoury;Major;Closed;Invalid;19/Apr/18 15:57;19/Apr/18 20:49;
+Bug;EMAIL-181;13172533;the filename of the attachment is not right if the filename has Chinese Characters;sgoeschl;arrowwind;Minor;Open;;17/Jul/18 01:07;26/Mar/20 07:06;

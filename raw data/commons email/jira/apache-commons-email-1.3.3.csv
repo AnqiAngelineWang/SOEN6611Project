@@ -1,0 +1,3 @@
+Issue Type;Issue key;Issue id;Summary;Assignee;Reporter;Priority;Status;Resolution;Created;Updated;Due Date
+Bug;EMAIL-151;12780475;ImageHtmlEmail uses wrong name for embed() call;;ankon;Major;Closed;Fixed;09/Mar/15 11:00;23/May/15 07:02;
+Bug;EMAIL-149;12768169;EmailConstants.MAIL_SMTP_FROM value is incorrect;;rcd;Major;Closed;Fixed;17/Jan/15 00:46;23/May/15 07:02;
