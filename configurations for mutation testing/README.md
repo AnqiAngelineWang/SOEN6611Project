@@ -15,4 +15,5 @@
                 </executions>
             </plugin>
 2.running mvn clean
+
 3.running mvn test
