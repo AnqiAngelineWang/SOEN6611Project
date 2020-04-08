@@ -1,0 +1,303 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED,COMPLEXITY_TOTAL,BRANCH_RANK,LINE_RANK,CC_RANK,d_Branch,d_Line,d^2_Branch,d^2_Line
+Apache Commons Configuration,org.apache.commons.configuration2.convert,PropertyConverter,188,1115,28,148,5,42,6,15,2,4,21,1,69,67,-66,2,4356,4
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListParserTokenManager,630,1373,153,145,0,66,3,28,0,16,31,2,41,47,-45,-6,2025,36
+Apache Commons Configuration,org.apache.commons.configuration2,INIConfiguration,15,840,5,127,1,11,1,5,1,5,6,3,174,162,-159,12,25281,144
+Apache Commons Configuration,org.apache.commons.configuration2.tree,InMemoryNodeModel,2,1287,7,115,0,17,0,10,0,9,10,4,142,129,-125,13,15625,169
+Apache Commons Configuration,org.apache.commons.configuration2,AbstractConfiguration,87,1405,17,111,13,74,7,36,0,25,43,5,36,32,-27,4,729,16
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListParser,631,999,92,110,0,26,1,16,0,11,17,6,108,86,-80,22,6400,484
+Apache Commons Configuration,org.apache.commons.configuration2,XMLConfiguration,32,903,1,105,0,41,0,20,0,7,20,7,71,69,-62,2,3844,4
+Apache Commons Configuration,org.apache.commons.configuration2.tree,DefaultConfigurationKey,2,497,5,83,24,106,7,42,0,24,49,8,25,26,-18,-1,324,1
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfigurationLayout,13,663,4,80,7,61,9,25,0,12,34,9,48,43,-34,5,1156,25
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration,43,588,12,74,83,124,68,43,50,35,111,10,19,7,3,12,9,144
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler,65,875,4,74,0,7,0,4,0,3,4,11,199,196,-185,3,34225,9
+Apache Commons Configuration,org.apache.commons.configuration2,CompositeConfiguration,17,590,6,72,0,7,0,4,0,4,4,12,199,196,-184,3,33856,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,CombinedConfigurationBuilder,25,1019,11,71,0,9,0,4,0,3,4,13,183,196,-183,-13,33489,169
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileLocatorUtils,14,504,5,69,3,26,1,14,0,11,15,14,108,96,-82,12,6724,144
+Apache Commons Configuration,org.apache.commons.configuration2,CombinedConfiguration,2,715,3,67,0,19,0,10,0,2,10,15,135,129,-114,6,12996,36
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListConfiguration,108,594,21,63,1,31,1,11,0,6,12,16,96,118,-102,-22,10404,484
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,XPathExpressionEngine,23,459,1,57,4,98,6,33,0,12,39,17,29,36,-19,-7,361,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree,DefaultConfigurationKey.KeyIterator,23,372,3,53,0,7,0,4,0,4,4,18,199,196,-178,3,31684,9
+Apache Commons Configuration,org.apache.commons.configuration2,AbstractHierarchicalConfiguration,6,590,1,51,0,19,0,5,0,3,5,19,135,178,-159,-43,25281,1849
+Apache Commons Configuration,org.apache.commons.configuration2.plist,XMLPropertyListConfiguration,132,515,14,50,0,18,0,8,0,4,8,20,139,147,-127,-8,16129,64
+Apache Commons Configuration,org.apache.commons.configuration2,XMLConfiguration.XMLBuilderVisitor,18,369,6,48,3,220,6,90,1,29,96,21,7,9,12,-2,144,4
+Apache Commons Configuration,org.apache.commons.configuration2.convert,DefaultConversionHandler,0,304,0,46,1,50,1,18,0,9,19,22,56,75,-53,-19,2809,361
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BasicBuilderParameters,6,455,0,46,0,4,1,2,0,2,3,23,234,227,-204,7,41616,49
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,ConfigurationInterpolator,0,347,0,44,0,4,0,2,0,2,2,24,234,243,-219,-9,47961,81
+Apache Commons Configuration,org.apache.commons.configuration2.tree,DefaultExpressionEngine,0,342,1,43,0,5,0,2,0,2,2,25,226,243,-218,-17,47524,289
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction,4,538,3,41,0,4,0,2,0,2,2,26,234,243,-217,-9,47089,81
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,BeanHelper,101,388,11,39,0,15,0,6,0,2,6,27,154,162,-135,-8,18225,64
+Apache Commons Configuration,org.apache.commons.configuration2.builder,FileBasedConfigurationBuilder,0,276,1,39,0,17,0,5,0,2,5,28,142,178,-150,-36,22500,1296
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BasicConfigurationBuilder,2,448,1,39,0,34,1,13,0,4,14,29,85,101,-72,-16,5184,256
+Apache Commons Configuration,org.apache.commons.configuration2.plist,XMLPropertyListConfiguration.XMLPropertyListHandler,12,275,4,38,0,7,0,4,0,4,4,30,199,196,-166,3,27556,9
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,ConfigurationDynaBean,75,296,10,34,11,97,4,38,3,22,42,31,30,33,-2,-3,4,9
+Apache Commons Configuration,org.apache.commons.configuration2,JNDIConfiguration,18,365,4,34,0,6,0,3,0,2,3,32,211,227,-195,-16,38025,256
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationUtils,36,371,1,33,0,24,0,8,0,5,8,33,114,147,-114,-33,12996,1089
+Apache Commons Configuration,org.apache.commons.configuration2.convert,LegacyListDelimiterHandler,4,241,5,33,0,22,0,9,0,6,9,34,124,136,-102,-12,10404,144
+Apache Commons Configuration,org.apache.commons.configuration2,BaseHierarchicalConfiguration,4,556,1,31,0,5,0,4,0,4,4,35,226,196,-161,30,25921,900
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodeIteratorChildren,0,194,0,30,0,8,1,4,0,2,5,36,189,178,-142,11,20164,121
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiFileConfigurationBuilder,2,415,2,30,0,4,0,4,0,4,4,37,234,196,-159,38,25281,1444
+Apache Commons Configuration,org.apache.commons.configuration2.io,DefaultFileSystem,106,192,8,30,0,20,3,8,0,6,11,38,133,125,-87,8,7569,64
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,XMLBeanDeclaration,51,315,8,28,0,58,0,20,0,18,20,39,52,69,-30,-17,900,289
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,DefaultBeanFactory,7,257,3,27,0,38,1,17,0,8,18,40,74,79,-39,-5,1521,25
+Apache Commons Configuration,org.apache.commons.configuration2,DynamicCombinedConfiguration,392,465,25,27,0,3,0,3,0,3,3,41,250,227,-186,23,34596,529
+Apache Commons Configuration,org.apache.commons.configuration2.tree,MergeCombiner,0,218,1,27,0,13,0,6,0,6,6,42,165,162,-120,3,14400,9
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,ConfigurationDynaClass,36,140,4,26,2,61,2,27,1,17,29,43,48,52,-9,-4,81,16
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,CombinedBeanDeclaration,0,153,0,26,4,174,4,75,0,37,79,44,11,12,32,-1,1024,1
+Apache Commons Configuration,org.apache.commons.configuration2.convert,DefaultListDelimiterHandler,0,169,0,26,0,7,0,4,0,3,4,45,199,196,-151,3,22801,9
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ImmutableNode,0,318,0,26,15,82,14,18,2,13,32,46,33,44,2,-11,4,121
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeTracker,8,344,2,26,3,48,4,28,0,20,32,47,58,44,3,14,9,196
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ImmutableNode.Builder,0,177,0,24,0,2,0,2,0,2,2,48,267,243,-195,24,38025,576
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeTreeWalker,0,123,0,22,0,3,0,2,0,2,2,49,250,243,-194,7,37636,49
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.PropertiesWriter,11,231,1,21,2,137,1,61,0,36,62,50,15,19,31,-4,961,16
+Apache Commons Configuration,org.apache.commons.configuration2.event,EventListenerList,0,176,1,21,73,17,65,6,57,6,71,51,142,15,36,127,1296,16129
+Apache Commons Configuration,org.apache.commons.configuration2.convert,AbstractListDelimiterHandler,5,133,1,21,0,10,0,5,0,5,5,52,176,178,-126,-2,15876,4
+Apache Commons Configuration,org.apache.commons.configuration2,XMLPropertiesConfiguration,78,305,14,20,11,346,16,155,1,105,171,53,1,2,51,-1,2601,1
+Apache Commons Configuration,org.apache.commons.configuration2,SubsetConfiguration,20,225,4,20,0,8,0,4,0,4,4,54,189,196,-142,-7,20164,49
+Apache Commons Configuration,org.apache.commons.configuration2.event,BaseEventSource,0,215,0,20,2,35,0,15,0,11,15,55,81,96,-41,-15,1681,225
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,CombinedBuilderParametersImpl,6,231,0,20,0,201,3,68,0,36,71,56,10,15,41,-5,1681,25
+Apache Commons Configuration,org.apache.commons.configuration2.plist,SimpleCharStream,752,304,40,20,0,10,0,7,0,6,7,57,176,154,-97,22,9409,484
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,FileHandlerReloadingDetector,3,139,0,20,3,135,4,100,2,96,104,58,16,8,50,8,2500,64
+Apache Commons Configuration,org.apache.commons.configuration2,AbstractYAMLBasedConfiguration,6,214,1,19,10,160,13,64,1,33,77,59,12,13,46,-1,2116,1
+Apache Commons Configuration,org.apache.commons.configuration2,BaseHierarchicalConfiguration.BuilderVisitor,0,117,1,19,0,56,1,22,0,16,23,60,54,63,-3,-9,9,81
+Apache Commons Configuration,org.apache.commons.configuration2,XMLListReference,0,150,1,19,8,14,1,4,1,4,5,61,159,178,-117,-19,13689,361
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,CombinedConfigurationBuilder.ConfigurationSourceData,14,263,1,19,0,26,0,14,0,11,14,62,108,101,-39,7,1521,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree,OverrideCombiner,0,147,1,19,20,21,2,8,2,8,10,63,130,129,-66,1,4356,1
+Apache Commons Configuration,org.apache.commons.configuration2.spring,ConfigurationPropertiesFactoryBean,11,150,1,19,1,2,1,2,1,2,3,64,267,227,-163,40,26569,1600
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration,36,214,0,18,2,19,3,10,0,5,13,65,135,110,-45,25,2025,625
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,BaseConfigurationBuilderProvider,6,242,0,18,3,5,1,3,1,3,4,66,226,196,-130,30,16900,900
+Apache Commons Configuration,org.apache.commons.configuration2.builder,FileBasedBuilderParametersImpl,0,206,0,18,2,21,2,7,1,5,9,67,130,136,-69,-6,4761,36
+Apache Commons Configuration,org.apache.commons.configuration2,StrictConfigurationComparator,0,63,0,16,0,25,1,11,0,8,12,68,111,118,-50,-7,2500,49
+Apache Commons Configuration,org.apache.commons.configuration2,HierarchicalConfigurationConverter,1,180,2,16,12,62,6,30,6,21,36,69,47,40,29,7,841,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ReferenceTracker,13,133,4,16,0,13,0,6,0,6,6,70,165,162,-92,3,8464,9
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.Operations,0,149,0,16,3,38,1,19,1,14,20,71,74,69,2,5,4,25
+Apache Commons Configuration,org.apache.commons.configuration2.tree,UnionCombiner,0,119,0,16,1,45,2,13,0,6,15,72,60,96,-24,-36,576,1296
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.JupPropertiesReader,1,103,2,14,1,138,1,49,0,34,50,73,14,25,48,-11,2304,121
+Apache Commons Configuration,org.apache.commons.configuration2.event,EventListenerList.EventListenerIterator,0,111,0,14,14,41,10,20,9,14,30,74,71,49,25,22,625,484
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodeIteratorBase,0,127,2,14,7,239,1,90,0,38,91,75,6,10,65,-4,4225,16
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,ConfigurationDeclaration,4,87,0,14,7,158,6,60,0,27,66,76,13,18,58,-5,3364,25
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileUtils,4,109,4,14,0,9,0,4,0,3,4,77,183,196,-119,-13,14161,169
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeSelector,0,153,0,14,0,6,0,5,0,3,5,78,211,178,-100,33,10000,1089
+Apache Commons Configuration,org.apache.commons.configuration2.tree,AbstractImmutableNodeHandler,0,115,0,14,0,2,0,2,0,2,2,79,267,243,-164,24,26896,576
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.PropertiesReader,0,211,1,13,1,29,2,10,0,4,12,80,99,118,-38,-19,1444,361
+Apache Commons Configuration,org.apache.commons.configuration2,PrefixedKeysIterator,9,75,3,13,0,43,0,14,0,10,14,81,66,101,-20,-35,400,1225
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationXMLReader,24,110,1,13,0,6,0,4,0,4,4,82,211,196,-114,15,12996,225
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,FileExtensionConfigurationBuilderProvider,1,88,1,13,5,105,7,31,3,16,38,83,27,38,45,-11,2025,121
+Apache Commons Configuration,org.apache.commons.configuration2.io,VFSFileSystem,450,95,59,13,0,3,0,2,0,2,2,84,250,243,-159,7,25281,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodeIteratorAttribute,0,100,0,12,7,44,3,17,0,13,20,85,63,69,16,-6,256,36
+Apache Commons Configuration,org.apache.commons.configuration2.builder,AutoSaveListener,0,73,0,12,0,10,0,6,0,5,6,86,176,162,-76,14,5776,196
+Apache Commons Configuration,org.apache.commons.configuration2.builder,DefaultParametersManager,0,93,0,12,4,16,2,9,1,4,11,87,149,125,-38,24,1444,576
+Apache Commons Configuration,org.apache.commons.configuration2.resolver,CatalogResolver.Catalog,69,176,8,12,0,58,0,27,0,17,27,88,52,56,32,-4,1024,16
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,PeriodicReloadingTrigger,0,111,0,12,0,13,0,6,0,6,6,89,165,162,-73,3,5329,9
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,InterpolatorSpecification.Builder,0,124,0,12,0,20,0,9,0,6,9,90,133,136,-46,-3,2116,9
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,ConstructorArg,3,112,1,11,0,45,1,24,0,14,25,91,60,58,33,2,1089,4
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.JdbcOperation,3,148,1,11,0,17,0,5,0,5,5,92,142,178,-86,-36,7396,1296
+Apache Commons Configuration,org.apache.commons.configuration2.event,EventListenerRegistrationData,16,55,1,11,0,16,0,6,0,5,6,93,149,162,-69,-13,4761,169
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodePointer,4,135,1,11,0,33,0,16,0,9,16,94,88,91,3,-3,9,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder,DefaultParametersManager.DefaultHandlerData,0,47,1,11,0,2,0,2,0,2,2,95,267,243,-148,24,21904,576
+Apache Commons Configuration,org.apache.commons.configuration2.tree,TreeUtils,0,113,1,11,0,67,0,41,0,18,41,96,40,35,61,5,3721,25
+Apache Commons Configuration,org.apache.commons.configuration2,DataConfiguration,22,714,2,10,0,7,0,5,0,5,5,97,199,178,-81,21,6561,441
+Apache Commons Configuration,org.apache.commons.configuration2,MapConfiguration,27,141,0,10,0,44,0,18,0,5,18,98,63,79,19,-16,361,256
+Apache Commons Configuration,org.apache.commons.configuration2,BaseHierarchicalConfiguration.InterpolatedVisitor,28,174,4,10,26,211,29,86,1,26,115,99,9,6,93,3,8649,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiWrapDynaBean,0,152,0,10,0,1,0,2,0,2,2,100,273,243,-143,30,20449,900
+Apache Commons Configuration,org.apache.commons.configuration2.io,HomeDirectoryLocationStrategy,0,69,0,10,1,27,1,17,0,7,18,101,102,79,22,23,484,529
+Apache Commons Configuration,org.apache.commons.configuration2.plist,ParseException,182,189,22,10,2,66,6,22,1,8,28,102,41,55,47,-14,2209,196
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,ReloadingController,0,85,0,10,0,8,0,4,0,4,4,103,189,196,-93,-7,8649,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree,TreeData,13,144,0,10,4,4,2,2,2,2,4,104,234,196,-92,38,8464,1444
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.ChildrenUpdateOperation,0,144,0,10,0,10,0,5,0,5,5,105,176,178,-73,-2,5329,4
+Apache Commons Configuration,org.apache.commons.configuration2,XMLPropertiesConfiguration.XMLPropertiesHandler,0,71,0,8,0,6,0,3,0,3,3,106,211,227,-121,-16,14641,256
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,89,0,8,5,8,2,5,1,4,7,107,189,154,-47,35,2209,1225
+Apache Commons Configuration,org.apache.commons.configuration2,BaseConfiguration,6,136,0,8,0,6,0,2,0,2,2,108,211,243,-135,-32,18225,1024
+Apache Commons Configuration,org.apache.commons.configuration2,CombinedConfiguration.ConfigData,0,160,0,8,0,24,0,11,0,5,11,109,114,125,-16,-11,256,121
+Apache Commons Configuration,org.apache.commons.configuration2.io,CombinedLocationStrategy,0,53,0,8,0,50,0,22,0,7,22,110,56,65,45,-9,2025,81
+Apache Commons Configuration,org.apache.commons.configuration2.resolver,CatalogResolver,49,140,6,8,8,114,1,45,0,17,46,111,22,29,82,-7,6724,49
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,VFSFileHandlerReloadingDetector,23,99,0,8,2,35,2,22,1,17,24,112,81,60,52,21,2704,441
+Apache Commons Configuration,org.apache.commons.configuration2.tree,QueryResult,0,113,0,8,0,24,2,18,0,12,20,113,114,69,44,45,1936,2025
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeTracker.TrackedNodeData,0,95,0,8,1,22,2,14,1,13,16,114,124,91,23,33,529,1089
+Apache Commons Configuration,org.apache.commons.configuration2.web,BaseWebConfiguration,0,51,0,8,0,4,0,2,0,2,2,115,234,243,-128,-9,16384,81
+Apache Commons Configuration,org.apache.commons.configuration2.web,ServletRequestConfiguration,6,71,2,8,2,64,1,23,0,14,24,116,46,60,56,-14,3136,196
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfigurationLayout.PropertyLayoutData,13,77,1,7,0,8,0,4,0,4,4,117,189,196,-79,-7,6241,49
+Apache Commons Configuration,org.apache.commons.configuration2,HierarchicalConfigurationXMLReader.SAXVisitor,6,85,3,7,1,22,1,12,0,6,13,118,124,110,8,14,64,196
+Apache Commons Configuration,org.apache.commons.configuration2,INIConfiguration.GlobalSectionNodeModel.new NodeHandlerDecorator() {...},5,97,1,7,2,23,2,15,2,8,17,119,121,86,33,35,1089,1225
+Apache Commons Configuration,org.apache.commons.configuration2.tree,TrackedNodeModel,0,134,1,7,4,257,11,74,0,44,85,120,4,11,109,-7,11881,49
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,ExprLookup,62,122,3,7,0,23,0,12,0,10,12,121,121,118,3,3,9,9
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,ConstantLookup,0,109,1,7,1,16,1,8,1,6,9,122,149,136,-14,13,196,169
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,110,0,6,0,32,0,13,0,10,13,123,93,110,13,-17,169,289
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationConverter,0,76,0,6,0,13,0,6,0,6,6,124,165,162,-38,3,1444,9
+Apache Commons Configuration,org.apache.commons.configuration2,AbstractHierarchicalConfiguration.DefinedKeysVisitor,0,96,0,6,1,68,1,34,1,24,35,125,39,42,83,-3,6889,9
+Apache Commons Configuration,org.apache.commons.configuration2,SubnodeConfiguration,0,99,0,6,1,106,2,36,0,22,38,126,25,38,88,-13,7744,169
+Apache Commons Configuration,org.apache.commons.configuration2.event,EventType,0,64,0,6,0,15,1,5,0,4,6,127,154,162,-35,-8,1225,64
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,ReloadingCombinedConfigurationBuilder,0,97,0,6,0,19,0,5,0,4,5,128,135,178,-50,-43,2500,1849
+Apache Commons Configuration,org.apache.commons.configuration2.builder,ReloadingFileBasedConfigurationBuilder.new ReloadingDetector() {...},0,28,0,6,0,33,0,17,0,12,17,129,88,86,43,2,1849,4
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BuilderConfigurationWrapperFactory,0,71,0,6,0,10,0,3,0,2,3,130,176,227,-97,-51,9409,2601
+Apache Commons Configuration,org.apache.commons.configuration2.builder.fluent,Parameters.ParametersIfcInvocationHandler,0,33,0,6,2,61,0,26,0,17,26,131,48,57,74,-9,5476,81
+Apache Commons Configuration,org.apache.commons.configuration2.io,AbsoluteNameLocationStrategy,0,24,0,6,0,84,1,38,0,19,39,132,31,36,96,-5,9216,25
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileLocator,0,155,0,6,0,4,0,1,0,1,1,133,234,278,-145,-44,21025,1936
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,CombinedReloadingController,0,63,0,6,0,22,0,13,0,7,13,134,124,110,24,14,576,196
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,CombinedReloadingController.MultiReloadingControllerDetector,0,45,0,6,0,6,0,3,0,3,3,135,211,227,-92,-16,8464,256
+Apache Commons Configuration,org.apache.commons.configuration2,DataConfiguration.DataConversionHandler,1,34,1,5,0,12,0,6,0,6,6,136,172,162,-26,10,676,100
+Apache Commons Configuration,org.apache.commons.configuration2,PatternSubtreeConfigurationWrapper,429,82,11,5,0,12,1,8,0,3,9,137,172,136,1,36,1,1296
+Apache Commons Configuration,org.apache.commons.configuration2,SystemConfiguration,4,78,1,5,0,13,0,4,0,3,4,138,165,196,-58,-31,3364,961
+Apache Commons Configuration,org.apache.commons.configuration2.plist,XMLPropertyListConfiguration.PListNodeBuilder,35,158,3,5,0,6,0,3,0,3,3,139,211,227,-88,-16,7744,256
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.JupPropertiesWriter,0,99,0,4,0,65,0,30,0,21,30,140,44,49,91,-5,8281,25
+Apache Commons Configuration,org.apache.commons.configuration2,XMLDocumentHelper,0,192,0,4,0,6,0,3,0,2,3,141,211,227,-86,-16,7396,256
+Apache Commons Configuration,org.apache.commons.configuration2,AbstractHierarchicalConfiguration.DefinedVisitor,0,21,0,4,0,7,0,6,0,3,6,142,199,162,-20,37,400,1369
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiFileBuilderParametersImpl,0,72,0,4,0,7,0,4,0,3,4,143,199,196,-53,3,2809,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiWrapDynaClass,6,76,0,4,0,14,0,4,0,3,4,144,159,196,-52,-37,2704,1369
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BuilderConfigurationWrapperFactory.BuilderConfigurationWrapperInvocationHandler,0,47,0,4,0,5,0,3,0,3,3,145,226,227,-82,-1,6724,1
+Apache Commons Configuration,org.apache.commons.configuration2.io,BasePathLocationStrategy,0,21,0,4,2,109,0,52,0,29,52,146,24,24,122,0,14884,0
+Apache Commons Configuration,org.apache.commons.configuration2.io,ConfigurationLogger,0,91,0,4,1,6,1,6,1,6,7,147,211,154,-7,57,49,3249
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListConfiguration.DateComponentParser,0,38,0,4,0,27,0,12,0,11,12,148,102,118,30,-16,900,256
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeUpdateData,3,47,0,4,1,135,1,55,0,36,56,149,16,23,126,-7,15876,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree,DefaultExpressionEngineSymbols,0,166,0,4,2,0,2,0,2,0,2,150,279,243,-93,36,8649,1296
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationAttributePointer,2,67,1,3,5,7,1,4,1,4,5,151,199,178,-27,21,729,441
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiFileConfigurationBuilderProvider,1,61,1,3,1,0,1,0,1,0,1,152,279,278,-126,1,15876,1
+Apache Commons Configuration,org.apache.commons.configuration2.resolver,DefaultEntityResolver,40,25,3,3,0,17,0,9,0,9,9,153,142,136,17,6,289,36
+Apache Commons Configuration,org.apache.commons.configuration2.resolver,CatalogResolver.CatalogManager,8,54,5,3,0,11,0,6,0,4,6,154,174,162,-8,12,64,144
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,ExprLookup.Variable,22,46,1,3,0,21,0,9,0,6,9,155,130,136,19,-6,361,36
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,XMLBeanDeclaration.NodeData,0,89,0,2,0,15,0,8,0,8,8,156,154,147,9,7,81,49
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationLookup,0,21,0,2,0,25,0,12,0,6,12,157,111,118,39,-7,1521,49
+Apache Commons Configuration,org.apache.commons.configuration2,ImmutableConfigurationInvocationHandler,0,31,0,2,0,9,0,5,0,5,5,158,183,178,-20,5,400,25
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,54,0,2,0,27,0,17,0,16,17,159,102,86,73,16,5329,256
+Apache Commons Configuration,org.apache.commons.configuration2,BaseConfigurationXMLReader.SAXConverter,0,24,0,2,0,44,0,42,0,41,42,160,63,33,127,30,16129,900
+Apache Commons Configuration,org.apache.commons.configuration2,DynamicCombinedConfiguration.CurrentConfigHolder,0,35,0,2,0,8,0,6,0,3,6,161,189,162,-1,27,1,729
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationMap.ConfigurationSet,0,28,0,2,0,3,0,2,0,2,2,162,250,243,-81,7,6561,49
+Apache Commons Configuration,org.apache.commons.configuration2,FindNodeVisitor,0,25,0,2,0,6,0,5,0,2,5,163,211,178,-15,33,225,1089
+Apache Commons Configuration,org.apache.commons.configuration2.event,Event,0,75,0,2,0,3,0,2,0,2,2,164,250,243,-79,7,6241,49
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodePointerFactory,18,28,2,2,0,4,0,2,0,2,2,165,234,243,-78,-9,6084,81
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,CombinedConfigurationBuilderProvider,0,65,0,2,0,4,0,2,0,2,2,166,234,243,-77,-9,5929,81
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,ReloadingMultiFileConfigurationBuilder.new CombinedReloadingController() {...},0,37,0,2,2,3,2,3,2,3,5,167,250,178,-11,72,121,5184
+Apache Commons Configuration,org.apache.commons.configuration2.builder,CopyObjectDefaultHandler,0,33,0,2,0,3,0,2,0,2,2,168,250,243,-75,7,5625,49
+Apache Commons Configuration,org.apache.commons.configuration2.builder,DefaultReloadingDetectorFactory,0,24,0,2,0,3,0,2,0,2,2,169,250,243,-74,7,5476,49
+Apache Commons Configuration,org.apache.commons.configuration2.builder,ConfigurationBuilderResultCreatedEvent,0,25,0,2,0,6,0,6,0,6,6,170,211,162,8,49,64,2401
+Apache Commons Configuration,org.apache.commons.configuration2.builder,ReloadingBuilderSupportListener,0,38,0,2,0,3,0,2,0,2,2,171,250,243,-72,7,5184,49
+Apache Commons Configuration,org.apache.commons.configuration2.builder,ReloadingFileBasedConfigurationBuilder,0,87,0,2,0,4,0,2,0,2,2,172,234,243,-71,-9,5041,81
+Apache Commons Configuration,org.apache.commons.configuration2.builder.fluent,Parameters,0,185,0,2,2,112,5,56,0,24,61,173,23,20,153,3,23409,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder.fluent,Configurations,0,269,0,2,0,3,0,2,0,2,2,174,250,243,-69,7,4761,49
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileSystem,4,22,0,2,0,8,0,4,0,2,4,175,189,196,-21,-7,441,49
+Apache Commons Configuration,org.apache.commons.configuration2.io,DefaultFileSystem.HttpOutputStream,14,50,0,2,18,56,9,20,2,8,29,176,54,52,124,2,15376,4
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileLocator.FileLocatorBuilder,0,68,0,2,0,15,0,7,0,3,7,177,154,154,23,0,529,0
+Apache Commons Configuration,org.apache.commons.configuration2.io,ClasspathLocationStrategy,0,13,0,2,0,1,0,1,0,1,1,178,273,278,-100,-5,10000,25
+Apache Commons Configuration,org.apache.commons.configuration2.sync,ReadWriteSynchronizer,0,38,0,2,2,7,1,6,1,5,7,179,199,154,25,45,625,2025
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListConfiguration.DateSeparatorParser,0,51,0,2,5,14,3,6,3,5,9,180,159,136,44,23,1936,529
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListConfiguration.DateTimeZoneParser,0,70,0,2,0,9,1,2,0,2,3,181,183,227,-46,-44,2116,1936
+Apache Commons Configuration,org.apache.commons.configuration2.tree,InMemoryNodeModel.new ConfigurationNodeVisitorAdapter() {...},0,25,0,2,108,29,40,6,5,5,46,182,99,29,153,70,23409,4900
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeAddData,0,38,0,2,0,24,0,10,0,9,10,183,114,129,54,-15,2916,225
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},1,40,1,1,0,24,0,13,0,8,13,184,114,110,74,4,5476,16
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.Updater,0,32,1,1,0,37,0,14,0,11,14,185,76,101,84,-25,7056,625
+Apache Commons Configuration,org.apache.commons.configuration2.beanutils,BeanHelper.BeanCreationContextImpl,5,30,0,0,0,31,0,18,0,16,18,186,96,79,107,17,11449,289
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationMap.ConfigurationSet.ConfigurationSetIterator,0,29,0,0,4,0,2,0,2,0,2,187,279,243,-56,36,3136,1296
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.JupIOFactory,0,23,0,0,2,24,5,8,1,3,13,188,114,110,78,4,6084,16
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,49,0,0,13,285,4,112,0,77,116,189,3,5,184,-2,33856,4
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,50,0,0,0,2,0,2,0,2,2,190,267,243,-53,24,2809,576
+Apache Commons Configuration,org.apache.commons.configuration2,DatabaseConfiguration.new DatabaseConfiguration.JdbcOperation() {...},0,30,0,0,0,3,0,3,0,2,3,191,250,227,-36,23,1296,529
+Apache Commons Configuration,org.apache.commons.configuration2,SubsetConfiguration.SubsetIterator,0,25,0,0,0,6,0,5,0,5,5,192,211,178,14,33,196,1089
+Apache Commons Configuration,org.apache.commons.configuration2,EnvironmentConfiguration,0,22,0,0,0,3,0,1,0,1,1,193,250,278,-85,-28,7225,784
+Apache Commons Configuration,org.apache.commons.configuration2,PropertiesConfiguration.DefaultIOFactory,0,19,0,0,0,14,0,8,0,7,8,194,159,147,47,12,2209,144
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationUtils.new EventSource() {...},0,6,0,0,37,0,19,0,6,0,19,195,279,75,120,204,14400,41616
+Apache Commons Configuration,org.apache.commons.configuration2,HierarchicalConfigurationXMLReader,0,35,0,0,29,104,11,34,1,12,45,196,28,31,165,-3,27225,9
+Apache Commons Configuration,org.apache.commons.configuration2,YAMLConfiguration.new Constructor() {...},0,8,0,0,0,9,0,4,0,3,4,197,183,196,1,-13,1,169
+Apache Commons Configuration,org.apache.commons.configuration2,DynamicCombinedConfiguration.new ConfigurationInterpolator() {...},0,15,0,0,0,5,0,3,0,3,3,198,226,227,-29,-1,841,1
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationMap,0,36,0,0,5,7,4,3,4,3,7,199,199,154,45,45,2025,2025
+Apache Commons Configuration,org.apache.commons.configuration2,DynamicCombinedConfiguration.ConfigData,0,21,0,0,34,32,20,5,2,3,25,200,93,58,142,35,20164,1225
+Apache Commons Configuration,org.apache.commons.configuration2,JSONConfiguration,19,61,0,0,1,65,4,27,0,10,31,201,44,47,154,-3,23716,9
+Apache Commons Configuration,org.apache.commons.configuration2,YAMLConfiguration,46,73,0,0,0,17,0,4,0,3,4,202,142,196,6,-54,36,2916
+Apache Commons Configuration,org.apache.commons.configuration2,BaseHierarchicalConfiguration.new BaseHierarchicalConfiguration() {...},5,13,0,0,153,257,114,83,7,20,197,203,4,1,202,3,40804,9
+Apache Commons Configuration,org.apache.commons.configuration2,ConfigurationMap.ConfigurationSet.Entry,13,20,0,0,0,1,0,1,0,1,1,204,273,278,-74,-5,5476,25
+Apache Commons Configuration,org.apache.commons.configuration2,BaseConfigurationXMLReader,0,36,0,0,0,6,0,4,0,2,4,205,211,196,9,15,81,225
+Apache Commons Configuration,org.apache.commons.configuration2,XMLConfiguration.new DefaultHandler() {...},0,8,0,0,0,14,0,4,0,4,4,206,159,196,10,-37,100,1369
+Apache Commons Configuration,org.apache.commons.configuration2,ImmutableConfigurationInvocationHandler.ImmutableIterator,0,19,0,0,10,43,2,16,0,14,18,207,66,79,128,-13,16384,169
+Apache Commons Configuration,org.apache.commons.configuration2,INIConfiguration.GlobalSectionNodeModel,0,11,0,0,124,70,47,20,24,12,67,208,38,17,191,21,36481,441
+Apache Commons Configuration,org.apache.commons.configuration2.event,ConfigurationErrorEvent,0,48,0,0,102,212,77,74,11,37,151,209,8,3,206,5,42436,25
+Apache Commons Configuration,org.apache.commons.configuration2.event,ConfigurationEvent,0,78,0,0,24,119,19,38,1,14,57,210,20,21,189,-1,35721,1
+Apache Commons Configuration,org.apache.commons.configuration2.convert,DefaultConversionHandler.new ConfigurationInterpolator() {...},0,5,0,0,0,1,0,1,0,1,1,211,273,278,-67,-5,4489,25
+Apache Commons Configuration,org.apache.commons.configuration2.convert,DisabledListDelimiterHandler,0,26,0,0,12,8,3,4,1,3,7,212,189,154,58,35,3364,1225
+Apache Commons Configuration,org.apache.commons.configuration2.convert,ListDelimiterHandler,0,5,0,0,7,43,5,14,0,12,19,213,66,75,138,-9,19044,81
+Apache Commons Configuration,org.apache.commons.configuration2.ex,ConfigurationException,0,16,0,0,3,22,4,9,0,9,13,214,124,110,104,14,10816,196
+Apache Commons Configuration,org.apache.commons.configuration2.ex,ConversionException,7,9,0,0,15,42,7,7,0,4,14,215,69,101,114,-32,12996,1024
+Apache Commons Configuration,org.apache.commons.configuration2.ex,ConfigurationRuntimeException,0,22,0,0,0,17,0,9,0,6,9,216,142,136,80,6,6400,36
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,ConfigurationNodePointerFactory.NodeWrapper,0,15,0,0,0,34,0,17,0,11,17,217,85,86,131,-1,17161,1
+Apache Commons Configuration,org.apache.commons.configuration2.tree.xpath,XPathContextFactory,0,13,0,0,0,8,0,4,0,4,4,218,189,196,22,-7,484,49
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiFileConfigurationBuilderProvider.ReloadableWrapperBuilder,0,13,0,0,4,27,0,10,0,6,10,219,102,129,90,-27,8100,729
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,MultiFileConfigurationBuilderProvider.WrapperBuilder,0,24,0,0,0,13,0,6,0,3,6,220,165,162,58,3,3364,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder.combined,ReloadingMultiFileConfigurationBuilder,0,47,0,0,2,39,0,23,0,13,23,221,73,63,158,10,24964,100
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BuilderConfigurationWrapperFactory.EventSourceSupport,0,34,0,0,0,27,0,12,0,7,12,222,102,118,104,-16,10816,256
+Apache Commons Configuration,org.apache.commons.configuration2.builder,HierarchicalBuilderParametersImpl,0,22,0,0,0,6,0,4,0,4,4,223,211,196,27,15,729,225
+Apache Commons Configuration,org.apache.commons.configuration2.builder,PropertiesBuilderParametersImpl,0,49,0,0,1,15,1,8,1,6,9,224,154,136,88,18,7744,324
+Apache Commons Configuration,org.apache.commons.configuration2.builder,ConfigurationBuilderEvent,0,28,0,0,0,36,1,19,0,16,20,225,78,69,156,9,24336,81
+Apache Commons Configuration,org.apache.commons.configuration2.builder,JndiBuilderParametersImpl,0,15,0,0,1,119,5,67,0,28,72,226,20,14,212,6,44944,36
+Apache Commons Configuration,org.apache.commons.configuration2.builder,BasicConfigurationBuilder.new BeanDeclaration() {...},2,23,0,0,0,135,3,54,0,35,57,227,16,21,206,-5,42436,25
+Apache Commons Configuration,org.apache.commons.configuration2.builder,INIBuilderProperties,4,0,0,0,0,5,0,2,0,2,2,228,226,243,-15,-17,225,289
+Apache Commons Configuration,org.apache.commons.configuration2.builder,INIBuilderParametersImpl,31,21,0,0,0,3,0,1,0,1,1,229,250,278,-49,-28,2401,784
+Apache Commons Configuration,org.apache.commons.configuration2.builder,PropertiesBuilderProperties,2,0,0,0,0,66,0,32,0,19,32,230,41,44,186,-3,34596,9
+Apache Commons Configuration,org.apache.commons.configuration2.builder,XMLBuilderParametersImpl,0,71,0,0,0,29,1,13,0,4,14,231,99,101,130,-2,16900,4
+Apache Commons Configuration,org.apache.commons.configuration2.builder,DatabaseBuilderParametersImpl,0,46,0,0,0,36,0,15,0,8,15,232,78,96,136,-18,18496,324
+Apache Commons Configuration,org.apache.commons.configuration2.builder,EventListenerParameters,0,26,0,0,0,73,1,35,0,14,36,233,37,40,193,-3,37249,9
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,17,0,0,1,79,2,28,0,16,30,234,35,49,185,-14,34225,196
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,25,0,0,0,4,0,2,0,2,2,235,234,243,-8,-9,64,81
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,21,0,0,5,82,3,46,0,21,49,236,33,26,210,7,44100,49
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,21,0,0,0,3,0,2,0,2,2,237,250,243,-6,7,36,49
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new SynchronizerSupport() {...},3,5,0,0,0,27,0,14,0,10,14,238,102,101,137,1,18769,1
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,17,0,0,0,2,0,2,0,2,2,239,267,243,-4,24,16,576
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,17,0,0,0,10,0,6,0,6,6,240,176,162,78,14,6084,196
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandlerListenerAdapter,0,8,0,0,0,18,0,13,0,9,13,241,139,110,131,29,17161,841
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,17,0,0,0,7,0,4,0,4,4,242,199,196,46,3,2116,9
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileHandler.new FileHandler.Updater() {...},0,23,0,0,0,61,0,29,0,17,29,243,48,52,191,-4,36481,16
+Apache Commons Configuration,org.apache.commons.configuration2.io,FileSystemLocationStrategy,0,10,0,0,0,342,7,117,0,63,124,244,2,4,240,-2,57600,4
+Apache Commons Configuration,org.apache.commons.configuration2.io,VerifiableOutputStream,0,3,0,0,0,4,0,2,0,2,2,245,234,243,2,-9,4,81
+Apache Commons Configuration,org.apache.commons.configuration2.io,VFSFileSystem.VFSURLStreamHandler,12,0,0,0,2,35,4,12,0,6,16,246,81,91,155,-10,24025,100
+Apache Commons Configuration,org.apache.commons.configuration2.io,ProvidedURLLocationStrategy,0,6,0,0,0,5,0,3,0,2,3,247,226,227,20,-1,400,1
+Apache Commons Configuration,org.apache.commons.configuration2.sync,NoOpSynchronizer,0,18,0,0,0,36,0,15,0,7,15,248,78,96,152,-18,23104,324
+Apache Commons Configuration,org.apache.commons.configuration2.sync,LockMode,0,24,0,0,0,4,0,2,0,2,2,249,234,243,6,-9,36,81
+Apache Commons Configuration,org.apache.commons.configuration2.plist,TokenMgrError,173,0,18,0,1,3,1,3,1,3,4,250,250,196,54,54,2916,2916
+Apache Commons Configuration,org.apache.commons.configuration2.plist,XMLPropertyListConfiguration.ArrayNodeBuilder,0,18,0,0,0,24,0,22,0,15,22,251,114,65,186,49,34596,2401
+Apache Commons Configuration,org.apache.commons.configuration2.plist,Token,14,20,0,0,0,13,0,7,0,6,7,252,165,154,98,11,9604,121
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListParser.JJCalls,0,3,0,0,2,1,2,1,2,1,3,253,273,227,26,46,676,2116
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListConfiguration.DateFieldParser,0,73,0,0,0,1,0,1,0,1,1,254,273,278,-24,-5,576,25
+Apache Commons Configuration,org.apache.commons.configuration2.plist,PropertyListParserConstants,0,124,0,0,0,4,0,2,0,2,2,255,234,243,12,-9,144,81
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,ManagedReloadingDetector,0,22,0,0,1,35,1,17,1,12,18,256,81,79,177,2,31329,4
+Apache Commons Configuration,org.apache.commons.configuration2.reloading,ReloadingEvent,0,22,0,0,0,47,1,18,0,5,19,257,59,75,182,-16,33124,256
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.AddAttributeOperation,0,21,0,0,0,45,0,14,0,12,14,258,60,101,157,-41,24649,1681
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeNameMatchers,0,24,0,0,0,5,0,2,0,2,2,259,226,243,16,-17,256,289
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.ChangeNodeValueOperation,0,16,0,0,0,16,0,16,0,16,16,260,149,91,169,58,28561,3364
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeNameMatchers.new NodeNameMatchers() {...},0,12,0,0,0,22,1,7,0,2,8,261,124,147,114,-23,12996,529
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeNameMatchers.new NodeNameMatchers() {...},0,12,0,0,0,25,0,11,0,3,11,262,111,125,137,-14,18769,196
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeCombiner,0,31,0,0,0,33,0,18,0,7,18,263,88,79,184,9,33856,81
+Apache Commons Configuration,org.apache.commons.configuration2.tree,TrackedNodeHandler,0,21,0,0,0,23,0,9,0,9,9,264,121,136,128,-15,16384,225
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.AddAttributesOperation,0,16,0,0,0,33,0,14,0,9,14,265,88,101,164,-13,26896,169
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.ChangeNodeNameOperation,0,16,0,0,0,37,0,16,0,10,16,266,76,91,175,-15,30625,225
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ConfigurationNodeVisitorAdapter,1,6,0,0,17,33,8,13,6,10,21,267,88,67,200,21,40000,441
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeCombiner.new AbstractImmutableNodeHandler() {...},4,3,0,0,0,32,1,9,0,6,10,268,93,129,139,-36,19321,1296
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.Operation,0,6,0,0,5,18,2,6,1,5,8,269,139,147,122,-8,14884,64
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.RemoveAttributeOperation,0,16,0,0,0,4,0,2,0,2,2,270,234,243,27,-9,729,81
+Apache Commons Configuration,org.apache.commons.configuration2.tree,ModelTransaction.new ConfigurationNodeVisitorAdapter() {...},0,23,0,0,0,84,0,49,0,27,49,271,31,26,245,5,60025,25
+Apache Commons Configuration,org.apache.commons.configuration2.tree,NodeHandlerDecorator,0,86,0,0,1,4,2,2,1,2,4,272,234,196,76,38,5776,1444
+Apache Commons Configuration,org.apache.commons.configuration2.tree,DefaultExpressionEngineSymbols.Builder,0,66,0,0,2,0,2,0,2,0,2,273,279,243,30,36,900,1296
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,StringLookupAdapter,0,14,0,0,2,0,2,0,2,0,2,274,279,243,31,36,961,1296
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,ExprLookup.Variables,13,7,2,0,0,34,0,4,0,4,4,275,85,196,79,-111,6241,12321
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,SystemPropertiesLookup,8,0,0,0,0,14,0,5,0,5,5,276,159,178,98,-19,9604,361
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,EnvironmentLookup,6,0,0,0,0,3,0,2,0,2,2,277,250,243,34,7,1156,49
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,DefaultLookups,0,293,0,0,0,8,0,4,0,4,4,278,189,196,82,-7,6724,49
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,InterpolatorSpecification,0,39,0,0,0,10,0,10,0,6,10,279,176,129,150,47,22500,2209
+Apache Commons Configuration,org.apache.commons.configuration2.interpol,DummyLookup,0,16,0,0,9,0,5,0,3,0,5,280,279,178,102,101,10404,10201
+Apache Commons Configuration,org.apache.commons.configuration2.web,ServletConfiguration,0,26,0,0,0,9,0,4,0,4,4,281,183,196,85,-13,7225,169
+Apache Commons Configuration,org.apache.commons.configuration2.web,AppletConfiguration,45,0,4,0,0,6,0,3,0,3,3,282,211,227,55,-16,3025,256
+Apache Commons Configuration,org.apache.commons.configuration2.web,ServletContextConfiguration,0,29,0,0,1,16,2,6,0,3,8,283,149,147,136,2,18496,4
+Apache Commons Configuration,org.apache.commons.configuration2.web,ServletFilterConfiguration,0,21,0,0,5,30,5,19,4,10,24,284,98,60,224,38,50176,1444
+Apache Commons Configuration,org.apache.commons.configuration2.spring,ConfigurationPropertySource,29,11,2,0,7,3,3,2,2,2,5,285,250,178,107,72,11449,5184
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,Line,,
+,,,,,,,,,,,,,Branch ,,,,,,,
+,,,,,,,,,,,,,,,,,,Sum of d^2,210236,
+,,,,,,,,,,,,,Sum of d^2,3153120,,,,Numerator,1261416,
+,,,,,,,,,,,,,Numerator,18918720,,,,,,
+,,,,,,,,,,,,,,,,,,n,285,
+,,,,,,,,,,,,,n,285,,,,n^3,23149125,
+,,,,,,,,,,,,,n^3,23149125,,,,Denominator,23148840,
+,,,,,,,,,,,,,Denominator,23148840,,,,,,
+,,,,,,,,,,,,,,,,,,r,0.945508457,
+,,,,,,,,,,,,,r,0.182735722,,,,,,
