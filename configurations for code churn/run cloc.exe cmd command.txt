@@ -1,0 +1,28 @@
+Microsoft Windows [Version 10.0.18362.657]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\angel>cd C:\Users\angel\Documents\Git_GitHub\SOEN6611_Project_CLOC_Plugin\src
+
+C:\Users\angel\Documents\Git_GitHub\SOEN6611_Project_CLOC_Plugin\src>cloc .
+'cloc' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\angel\Documents\Git_GitHub\SOEN6611_Project_CLOC_Plugin\src>cd ..
+
+C:\Users\angel\Documents\Git_GitHub\SOEN6611_Project_CLOC_Plugin>cloc .
+     299 text files.
+     299 unique files.
+      57 files ignored.
+
+http://cloc.sourceforge.net v 1.64  T=2.38 s (120.4 files/s, 26658.6 lines/s)
+----------------------------------------------------------------------------------------
+Language                              files          blank        comment           code
+----------------------------------------------------------------------------------------
+Java                                    248           6017          21839          30455
+XML                                      29            490            518           2693
+Velocity Template Language                1            217              0            812
+HTML                                      8             23            112            366
+Bourne Shell                              1              0              2              2
+----------------------------------------------------------------------------------------
+SUM:                                    287           6747          22471          34328
+----------------------------------------------------------------------------------------
