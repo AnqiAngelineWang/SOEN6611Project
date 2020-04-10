@@ -17,4 +17,6 @@ The package correlation analysis includes the correlation results for metric1,2&
 
 The package raw data includes the data generated for metric1,2,3,4,6. You can see the results in both .html file and csv file.
 
-The commands includes the commands needed for testing metric1,2,3,4.
+The commands includes the commands needed for testing metric1,2,3,4,6.
+
+The requirements including libraries and tools are in the corresponding folders to run the script.
