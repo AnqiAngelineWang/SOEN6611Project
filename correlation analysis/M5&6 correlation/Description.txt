@@ -1,0 +1,3 @@
+Metric 5 and metric 6 has used Spearman Correlation method to do the correlation calculation. Excel tool is the platform to achieved this performance. The formula has been implemented inside.
+
+There are three project source codes, which generates three groups of results. For each group, there are 6 versions of releases involved. Altogether, the correlation proceeded and contained 15 calculations.
