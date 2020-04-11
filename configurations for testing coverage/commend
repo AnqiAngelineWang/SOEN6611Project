@@ -28,3 +28,6 @@
 			</plugin>
 2.running mvn clean
 3.running mvn test
+
+Or 
+2. runing mvn cobertura: cobertura
