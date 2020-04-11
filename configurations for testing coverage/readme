@@ -1,0 +1,10 @@
+This Testing Coverage Metric concludes statement coverage and branch coverage in the project. 
+
+Tool: JaCoCo
+
+Procedure：
+Optional 1: run ‘mvn test’ to generate results and all the data are saved under the JaCoCo-ut folder which is under the target folder.
+Using ‘mvn clean’ to wipe out those unnecessary build files.
+
+Opation 2: used ‘mvn cobertura: cobertura’ to generate the result. 
+After generation completed, the result was shown under the cobertura folder which was under the site folder.
