@@ -1,0 +1,30 @@
+1.adding JaCoCo plugin in .pom file
+
+			 <plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>${jacoco.version}</version>
+				<executions>
+					<execution>
+						<id>prepare-agent</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>post-unit-test</id>
+						<phase>test</phase>
+						<goals>
+							<goal>report</goal>
+						</goals>
+						<configuration>
+							 <!--Sets the path to the file which contains the execution data.-->
+							<dataFile>target/jacoco.exec</dataFile>
+							 <!--Sets the output directory for the code coverage report.-->
+							<outputDirectory>target/jacoco-ut</outputDirectory>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+2.running mvn clean
+3.running mvn test
